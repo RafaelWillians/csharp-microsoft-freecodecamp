@@ -1,0 +1,14 @@
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\bin\Debug\net7.0\RevisaoComentario.exe
+c:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\bin\Debug\net7.0\RevisaoComentario.deps.json
+c:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\bin\Debug\net7.0\RevisaoComentario.runtimeconfig.json
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\bin\Debug\net7.0\RevisaoComentario.dll
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\bin\Debug\net7.0\RevisaoComentario.pdb
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.AssemblyInfoInputs.cache
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.AssemblyInfo.cs
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.csproj.CoreCompileInputs.cache
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.dll
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\refint\RevisaoComentario.dll
+C:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.pdb
+c:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\RevisaoComentario.genruntimeconfig.cache
+c:\Users\User1\Documents\C#\CsharpProjects\RevisaoComentario\obj\Debug\net7.0\ref\RevisaoComentario.dll
