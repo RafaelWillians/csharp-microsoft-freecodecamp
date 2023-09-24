@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WinPC\\Documents\\CS\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "c:\\Users\\WinPC\\Documents\\Workspace\\Csharp-Microsoft-freeCodeCamp\\Extra\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\WinPC\\Documents\\CS\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "c:\\Users\\WinPC\\Documents\\Workspace\\Csharp-Microsoft-freeCodeCamp\\Extra\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\WinPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WinPC\\Documents\\CS\\FizzBuzz\\obj\\",
+      "outputPath": "c:\\Users\\WinPC\\Documents\\Workspace\\Csharp-Microsoft-freeCodeCamp\\Extra\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WinPC\\AppData\\Roaming\\NuGet\\NuGet.Config"

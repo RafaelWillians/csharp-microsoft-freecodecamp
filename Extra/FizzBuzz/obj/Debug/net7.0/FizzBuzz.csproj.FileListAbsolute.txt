@@ -12,3 +12,17 @@ c:\Users\WinPC\Documents\CS\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
 c:\Users\WinPC\Documents\CS\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
 c:\Users\WinPC\Documents\CS\FizzBuzz\obj\Debug\net7.0\FizzBuzz.genruntimeconfig.cache
 c:\Users\WinPC\Documents\CS\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\bin\Debug\net7.0\FizzBuzz.exe
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\bin\Debug\net7.0\FizzBuzz.runtimeconfig.json
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\FizzBuzz.genruntimeconfig.cache
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\Extra\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
