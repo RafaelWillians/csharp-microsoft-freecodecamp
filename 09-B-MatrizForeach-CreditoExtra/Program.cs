@@ -1,135 +1,137 @@
-﻿int examAssignments = 5;
+﻿// Inicializando variáveis.
+int[] sophiaNota = new int[] { 90, 86, 87, 98, 100, 94, 90 };
+int[] andrewNota = new int[] { 92, 89, 81, 96, 90, 89 };
+int[] emmaNota = new int[] { 90, 85, 87, 98, 68, 89, 89, 89 };
+int[] loganNota = new int[] { 90, 95, 87, 88, 96, 96 };
+int[] beckyNota = new int[] { 92, 91, 90, 91, 92, 92, 92 };
+int[] chrisNota = new int[] { 84, 86, 88, 90, 92, 94, 96, 98 };
+int[] ericNota = new int[] { 80, 90, 100, 80, 90, 100, 80, 90 };
+int[] gregorNota = new int[] { 91, 91, 91, 91, 91, 91, 91 };    
 
-int[] sophiaScores = new int[] { 90, 86, 87, 98, 100, 94, 90 };
-int[] andrewScores = new int[] { 92, 89, 81, 96, 90, 89 };
-int[] emmaScores = new int[] { 90, 85, 87, 98, 68, 89, 89, 89 };
-int[] loganScores = new int[] { 90, 95, 87, 88, 96, 96 };
-int[] beckyScores = new int[] { 92, 91, 90, 91, 92, 92, 92 };
-int[] chrisScores = new int[] { 84, 86, 88, 90, 92, 94, 96, 98 };
-int[] ericScores = new int[] { 80, 90, 100, 80, 90, 100, 80, 90 };
-int[] gregorScores = new int[] { 91, 91, 91, 91, 91, 91, 91 };    
+int[] alunoNota = new int[10];
 
-// Student names
-string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan", "Becky", "Chris", "Eric", "Gregor" };
+int quantidadeAvaliacao = 5;
 
-int[] studentScores = new int[10];
+string[] nomeAluno = new string[] { "Sophia", "Andrew", "Emma", "Logan", "Becky", "Chris", "Eric", "Gregor" };
 
-string currentStudentLetterGrade = "";
-
-
-// NOVO
-// decimal pontoCreditoExtra = 0;
-// decimal mediaCreditoExtra = 0;
+string letraGrauAluno = "";
 
 
-
-/* 
-Console.WriteLine("Student\t\tGrade\n");
- */
-
-
+// Cabeçalho
 Console.WriteLine($"Student\t\tExam Score\tOverall\tGrade\t\tExtra Credit\n");
 
 
 /*
-The outer foreach loop is used to:
-- iterate through student names 
-- assign a student's grades to the studentScores array
-- sum assignment scores (inner foreach loop)
-- calculate numeric and letter grade
-- write the score report information
+    Primeiro foreach para checar nome a nome, usar como nota atual
+    para base nos cálculos a seguir. 
 */
-foreach (string name in studentNames)
+
+
+
+foreach (string nome in nomeAluno)
 {
-    string currentStudent = name;
+    string alunoAtual = nome;
 
-    if (currentStudent == "Sophia")
-        studentScores = sophiaScores;
+    if (alunoAtual == "Sophia")
+        alunoNota = sophiaNota;
 
-    else if (currentStudent == "Andrew")
-        studentScores = andrewScores;
+    else if (alunoAtual == "Andrew")
+        alunoNota = andrewNota;
 
-    else if (currentStudent == "Emma")
-        studentScores = emmaScores;
+    else if (alunoAtual == "Emma")
+        alunoNota = emmaNota;
 
-    else if (currentStudent == "Logan")
-        studentScores = loganScores;
+    else if (alunoAtual == "Logan")
+        alunoNota = loganNota;
 
-    else if (currentStudent == "Becky")
-    studentScores = beckyScores;
+    else if (alunoAtual == "Becky")
+    alunoNota = beckyNota;
 
-    else if (currentStudent == "Chris")
-        studentScores = chrisScores;
+    else if (alunoAtual == "Chris")
+        alunoNota = chrisNota;
 
-    else if (currentStudent == "Eric")
-        studentScores = ericScores;
+    else if (alunoAtual == "Eric")
+        alunoNota = ericNota;
 
-    else if (currentStudent == "Gregor")
-        studentScores = gregorScores;
+    else if (alunoAtual == "Gregor")
+        alunoNota = gregorNota;
 
     else
         continue;
 
-    int sumAssignmentScores = 0;
-    decimal currentStudentGrade = 0;
-    int gradedAssignments = 0;
+    int somaNotaAvaliacao = 0;
+    int contadorNotaAvaliacao = 0;
+    int quantidadeCreditoExtra = 0;
+    
+    decimal mediaNotaAlunoAtual = 0;
+    decimal somaCreditoExtra = 0;
+    decimal pontoCreditoExtra = 0;
+    decimal mediaCreditoExtra = 0;
+    decimal notaTotal = 0;    
 
 
-    /* 
-    the inner foreach loop sums assignment scores
-    extra credit assignments are worth 10% of an exam score
+    /*
+        Segundo foreach, para percorrer por todas as notas de cada um.
     */
-    foreach (int score in studentScores)
+    foreach (int pontuacao in alunoNota)
     {
-        gradedAssignments += 1;
+        contadorNotaAvaliacao += 1;
 
-        if (gradedAssignments <= examAssignments)
-            sumAssignmentScores += score;
+        if (contadorNotaAvaliacao <= quantidadeAvaliacao)
+        {
+            // Soma a pontuação das avaliações normais.
+            somaNotaAvaliacao += pontuacao;
+        }
         else
-            sumAssignmentScores += score / 10; //CALCULAR AQUI OU FORA DO FOREACH
+        {
+           // Soma a pontuação somente das atividades extras.
+            somaCreditoExtra += pontuacao;
+            quantidadeCreditoExtra++;
+
+        }
     }
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    // Exam Score
+    mediaNotaAlunoAtual = (decimal)(somaNotaAvaliacao) / quantidadeAvaliacao;
 
-    if (currentStudentGrade >= 97)
-        currentStudentLetterGrade = "A+";
-    else if (currentStudentGrade >= 93)
-        currentStudentLetterGrade = "A";
-    else if (currentStudentGrade >= 90)
-        currentStudentLetterGrade = "A-";
-    else if (currentStudentGrade >= 87)
-        currentStudentLetterGrade = "B+";
-    else if (currentStudentGrade >= 83)
-        currentStudentLetterGrade = "B";
-    else if (currentStudentGrade >= 80)
-        currentStudentLetterGrade = "B-";
-    else if (currentStudentGrade >= 77)
-        currentStudentLetterGrade = "C+";
-    else if (currentStudentGrade >= 73)
-        currentStudentLetterGrade = "C";
-    else if (currentStudentGrade >= 70)
-        currentStudentLetterGrade = "C-";
-    else if (currentStudentGrade >= 67)
-        currentStudentLetterGrade = "D+";
-    else if (currentStudentGrade >= 63)
-        currentStudentLetterGrade = "D";
-    else if (currentStudentGrade >= 60)
-        currentStudentLetterGrade = "D-";
+    // Extra Credit
+    mediaCreditoExtra = (decimal)(somaCreditoExtra) / quantidadeCreditoExtra;
+
+    // Extra Credit (quantidade de pontos)
+    pontoCreditoExtra = (decimal) (somaCreditoExtra / 10) / quantidadeAvaliacao;
+
+    // Overall
+    notaTotal = mediaNotaAlunoAtual + pontoCreditoExtra;
+
+    // (Não-otimizado) Para atribuir letra de nota ao aluno, de acordo com a nota.
+    if (notaTotal >= 97)
+        letraGrauAluno = "A+";
+    else if (notaTotal >= 93)
+        letraGrauAluno = "A";
+    else if (notaTotal >= 90)
+        letraGrauAluno = "A-";
+    else if (notaTotal >= 87)
+        letraGrauAluno = "B+";
+    else if (notaTotal >= 83)
+        letraGrauAluno = "B";
+    else if (notaTotal >= 80)
+        letraGrauAluno = "B-";
+    else if (notaTotal >= 77)
+        letraGrauAluno = "C+";
+    else if (notaTotal >= 73)
+        letraGrauAluno = "C";
+    else if (notaTotal >= 70)
+        letraGrauAluno = "C-";
+    else if (notaTotal >= 67)
+        letraGrauAluno = "D+";
+    else if (notaTotal >= 63)
+        letraGrauAluno = "D";
+    else if (notaTotal >= 60)
+        letraGrauAluno = "D-";
     else
-        currentStudentLetterGrade = "F";
+        letraGrauAluno = "F";
 
-    // Student         Grade
-    // Sophia:         92.2    A-
-    
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+    //Saída de cada aluno e suas notas.     
+    Console.WriteLine($"{alunoAtual}\t\t{mediaNotaAlunoAtual}\t\t{notaTotal}\t{letraGrauAluno}\t{mediaCreditoExtra} ({pontoCreditoExtra} pts)");
 }
 
-// required for running in VS Code (keeps the Output windows open to view results)
-Console.WriteLine("\n\rPress the Enter key to continue");
-Console.ReadLine();
-
-
-
-Console.ReadLine();
-Console.WriteLine("\n\rPress the Enter key to continue");
-Console.ReadLine();
