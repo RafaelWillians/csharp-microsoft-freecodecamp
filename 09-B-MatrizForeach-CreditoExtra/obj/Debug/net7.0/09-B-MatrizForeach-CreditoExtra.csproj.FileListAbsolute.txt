@@ -1,0 +1,14 @@
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\bin\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.exe
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\bin\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.deps.json
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\bin\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.runtimeconfig.json
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\bin\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\bin\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.pdb
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.AssemblyInfoInputs.cache
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.AssemblyInfo.cs
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.csproj.CoreCompileInputs.cache
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\refint\09-B-MatrizForeach-CreditoExtra.dll
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.pdb
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\09-B-MatrizForeach-CreditoExtra.genruntimeconfig.cache
+c:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-B-MatrizForeach-CreditoExtra\obj\Debug\net7.0\ref\09-B-MatrizForeach-CreditoExtra.dll

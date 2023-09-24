@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\bin\Debug\net7.0\09-A-MatrizForeach-Guiado.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\bin\Debug\net7.0\09-A-MatrizForeach-Guiado.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\bin\Debug\net7.0\09-A-MatrizForeach-Guiado.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\bin\Debug\net7.0\09-A-MatrizForeach-Guiado.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\bin\Debug\net7.0\09-A-MatrizForeach-Guiado.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\refint\09-A-MatrizForeach-Guiado.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\09-A-MatrizForeach-Guiado.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\09-A-MatrizForeach-Guiado\obj\Debug\net7.0\ref\09-A-MatrizForeach-Guiado.dll
