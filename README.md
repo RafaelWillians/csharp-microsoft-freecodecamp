@@ -126,7 +126,16 @@ Console.WriteLine("Fourth: " + (++value)); // mostra 4
 
 ## Operadores lógicos
 
-|     |     |
-| --- | --- |
-| \|  | OR  |
-| &&  | AND |
+|      |                                                              |
+| ---- | ------------------------------------------------------------ |
+| \|\| | OR                                                           |
+| &&   | AND                                                          |
+| !    | NOT (pode ser usado como negação lógica - esse sinal antes de inserir algum comando por exemplo) |
+| ==   | Igual a                                                      |
+| !=   | Diferente de                                                 |
+| >    | Maior que                                                    |
+| <    | Menor que                                                    |
+| >=   | Maior ou igual a                                             |
+| <=   | Menor ou igual a                                             |
+| ?:   | Operador condicional (é possível usá-lo em vez de "if")      |
+

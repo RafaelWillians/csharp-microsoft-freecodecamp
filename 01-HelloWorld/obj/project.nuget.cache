@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVZ6CzvHE4FY/86kZkTkW8HRuX/OPindQgRrn9+2cQqdLNO9csYjZvc7HtHoGsH+Mww3XOz9Z3IRYiPaXKx5Gw==",
+  "dgSpecHash": "jhpGi0mRucRMGBPaj+uUZA97bH2d2OJHGeqXC3Sk1ctjbE22d1XmNeVQIEXwTc3B6yuJG8WXoylD4tqUVhSebw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User1\\Documents\\C#\\CsharpProjects\\HelloWorld\\TestProject.csproj",
+  "projectFilePath": "c:\\Users\\WinPC\\Documents\\Workspace\\Csharp-Microsoft-freeCodeCamp\\01-HelloWorld\\TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

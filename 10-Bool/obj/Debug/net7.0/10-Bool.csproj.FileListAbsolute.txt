@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\bin\Debug\net7.0\10-Bool.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\bin\Debug\net7.0\10-Bool.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\bin\Debug\net7.0\10-Bool.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\bin\Debug\net7.0\10-Bool.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\bin\Debug\net7.0\10-Bool.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\refint\10-Bool.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\10-Bool.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\10-Bool\obj\Debug\net7.0\ref\10-Bool.dll
