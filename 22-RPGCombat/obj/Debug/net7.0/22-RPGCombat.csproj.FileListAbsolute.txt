@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\bin\Debug\net7.0\22-RPGCombat.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\bin\Debug\net7.0\22-RPGCombat.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\bin\Debug\net7.0\22-RPGCombat.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\bin\Debug\net7.0\22-RPGCombat.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\bin\Debug\net7.0\22-RPGCombat.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\refint\22-RPGCombat.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\22-RPGCombat.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\22-RPGCombat\obj\Debug\net7.0\ref\22-RPGCombat.dll

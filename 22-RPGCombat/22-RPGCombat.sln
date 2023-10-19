@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22-RPGCombat", "22-RPGCombat.csproj", "{5569EB98-7034-491B-99AB-4106D0E1F65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5569EB98-7034-491B-99AB-4106D0E1F65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5569EB98-7034-491B-99AB-4106D0E1F65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5569EB98-7034-491B-99AB-4106D0E1F65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5569EB98-7034-491B-99AB-4106D0E1F65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D86378-F92D-44BB-98D8-B35DF011F50D}
+	EndGlobalSection
+EndGlobal
