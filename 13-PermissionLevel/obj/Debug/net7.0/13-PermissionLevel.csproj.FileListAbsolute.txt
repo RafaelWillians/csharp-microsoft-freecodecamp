@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\bin\Debug\net7.0\13-PermissionLevel.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\bin\Debug\net7.0\13-PermissionLevel.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\bin\Debug\net7.0\13-PermissionLevel.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\bin\Debug\net7.0\13-PermissionLevel.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\bin\Debug\net7.0\13-PermissionLevel.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\refint\13-PermissionLevel.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\13-PermissionLevel.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\13-PermissionLevel\obj\Debug\net7.0\ref\13-PermissionLevel.dll

@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\bin\Debug\net7.0\11-OperadorCondicional.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\bin\Debug\net7.0\11-OperadorCondicional.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\bin\Debug\net7.0\11-OperadorCondicional.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\bin\Debug\net7.0\11-OperadorCondicional.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\bin\Debug\net7.0\11-OperadorCondicional.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\refint\11-OperadorCondicional.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\11-OperadorCondicional.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\11-OperadorCondicional\obj\Debug\net7.0\ref\11-OperadorCondicional.dll
