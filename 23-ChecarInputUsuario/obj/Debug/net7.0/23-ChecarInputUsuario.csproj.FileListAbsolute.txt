@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\bin\Debug\net7.0\23-ChecarInputUsuario.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\bin\Debug\net7.0\23-ChecarInputUsuario.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\bin\Debug\net7.0\23-ChecarInputUsuario.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\bin\Debug\net7.0\23-ChecarInputUsuario.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\bin\Debug\net7.0\23-ChecarInputUsuario.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\refint\23-ChecarInputUsuario.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\23-ChecarInputUsuario.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\23-ChecarInputUsuario\obj\Debug\net7.0\ref\23-ChecarInputUsuario.dll
