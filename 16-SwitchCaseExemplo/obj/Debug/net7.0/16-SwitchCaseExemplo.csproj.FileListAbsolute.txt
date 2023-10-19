@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\bin\Debug\net7.0\16-SwitchCaseExemplo.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\bin\Debug\net7.0\16-SwitchCaseExemplo.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\bin\Debug\net7.0\16-SwitchCaseExemplo.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\bin\Debug\net7.0\16-SwitchCaseExemplo.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\bin\Debug\net7.0\16-SwitchCaseExemplo.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\refint\16-SwitchCaseExemplo.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\16-SwitchCaseExemplo.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\16-SwitchCaseExemplo\obj\Debug\net7.0\ref\16-SwitchCaseExemplo.dll
