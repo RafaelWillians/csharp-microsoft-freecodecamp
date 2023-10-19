@@ -1,0 +1,14 @@
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\bin\Debug\net7.0\18-SKU.exe
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\bin\Debug\net7.0\18-SKU.deps.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\bin\Debug\net7.0\18-SKU.runtimeconfig.json
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\bin\Debug\net7.0\18-SKU.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\bin\Debug\net7.0\18-SKU.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.AssemblyInfoInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.AssemblyInfo.cs
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\refint\18-SKU.dll
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.pdb
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\18-SKU.genruntimeconfig.cache
+C:\Users\WinPC\Documents\Workspace\Csharp-Microsoft-freeCodeCamp\18-SKU\obj\Debug\net7.0\ref\18-SKU.dll
