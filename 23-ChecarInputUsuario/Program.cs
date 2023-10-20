@@ -1,5 +1,5 @@
 ﻿int numericValue = 0;
-
+//
 string? readResult;
 
 bool validEntry = false;

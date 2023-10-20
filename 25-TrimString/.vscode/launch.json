@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: 25-TrimString",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\25-TrimString.csproj",
+            "launchConfigurationId": "TargetFramework=;25-TrimString"
+        }
+    ]
+}
